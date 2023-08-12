@@ -1,5 +1,4 @@
-node_modules/
-logs/
-src
+/node_modules
+/logs
+/src
 !.vscode/extensions.json
-dist
