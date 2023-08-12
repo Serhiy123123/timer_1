@@ -1,0 +1,36 @@
+body {
+  // background-color: rgb(140, 134, 134);
+  background-image: url(/src/images/DopeyFrighteningFossa-size_restricted.gif);
+  background-image: center center;
+  background-size: cover;
+}
+
+.timer__title {
+  font-family: "REM", sans-serif;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  padding-top: 250px;
+  color: rgb(157, 114, 114);
+}
+
+#timer,
+#old {
+  display: flex;
+  justify-content: center;
+  column-gap: 30px;
+  color: rgb(157, 114, 114);
+}
+#d {
+}
+#h {
+}
+#m {
+}
+#s {
+}
+
+.badge-succes {
+  font-family: "REM", sans-serif;
+  font-size: 30px;
+}
