@@ -14,15 +14,15 @@ dist-ssr
 *.local
 
 # finish result
-src
-pages
-gitignore
-index.html
-main.js
-package-lock.json
-package.json
-style.scss
-vite.config.js
+/src
+/pages
+.gitignore
+/index.html
+/main.js
+/package-lock.json
+/package.json
+/style.scss
+/vite.config.js
 
 
 # Editor directories and files
